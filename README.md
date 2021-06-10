@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Inventory Control Systems**
 
-- 🌱 I’m currently learning **Application Development @Cape Peninsula University of Technology**
+- 🌱 I’m currently learning **Application Development [@Cape Peninsula University of Technology**](https://www.cput.ac.za)
 
 - 👯 I’m looking to collaborate on **GitHub**
 
