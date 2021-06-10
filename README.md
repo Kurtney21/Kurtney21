@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Application Development @Cape Peninsula University of Technology**
 
-- 👯 I’m looking to collaborate on **Full Back-end Applications**
+- 👯 I’m looking to collaborate on **GitHub**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kurtney21](https://github.com/Kurtney21)
 
