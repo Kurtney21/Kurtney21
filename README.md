@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm currious_programmer Kurtney</h1>
-<h3 align="center">A passionate Application Development Student from Cape Town, South Africa</h3>
+<h3 align="center">Application Development Student from Cape Town, South Africa</h3>
 
 - 🔭 I’m currently working on **Inventory Control Systems**
 
