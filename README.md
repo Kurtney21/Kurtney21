@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kurtney21](https://github.com/Kurtney21)
 
-- 📫 How to reach me **kurtjantjies20@gmail.com**
+- 📫 How to reach me **kurtney.jantjies@hotmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/kurtney-jantjies](www.linkedin.com/in/kurtney-jantjies)
 
