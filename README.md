@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kurtney the Optimizer</h1>
 <h3 align="center">Application Development Student from Cape Town, South Africa</h3>
 
-- 🌱 I’m currently learning **Application Development [@Cape Peninsula University of Technology](https://www.cput.ac.za)**
+- 🌱 I’m studied  **DIP: Application Development [@Cape Peninsula University of Technology](https://www.cput.ac.za)**
 
-- 👯 I’m looking to collaborate on **GitHub**
+- 👯 I’m looking to collaborate on **GitHub**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kurtney21](https://github.com/Kurtney21)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/kurtney-jantjies](www.linkedin.com/in/kurtney-jantjies)
 
-- ⚡ Fun fact **I'm a curious programmer by heart.**
+- ⚡ Fun fact **I'm a old school disc jockey in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
