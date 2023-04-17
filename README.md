@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm currious_programmer Kurtney</h1>
+<h1 align="center">Hi 👋, I'm Kurtney the Optimizer</h1>
 <h3 align="center">Application Development Student from Cape Town, South Africa</h3>
 
 - 🌱 I’m currently learning **Application Development [@Cape Peninsula University of Technology](https://www.cput.ac.za)**
