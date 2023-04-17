@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/kurtney-jantjies](www.linkedin.com/in/kurtney-jantjies)
 
-- ⚡ Fun fact **I'm a old school disc jockey in my free time.**
+- ⚡ Fun fact: **I like work in my shorts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
