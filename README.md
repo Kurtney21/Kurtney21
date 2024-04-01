@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kurtney the Optimizer</h1>
 <h3 align="center">Application Development Student from Cape Town, South Africa</h3>
 
-- 🌱 I’m studied  **DIP: Application Development [@Cape Peninsula University of Technology](https://www.cput.ac.za)**
+- 🌱 I studied  **DIP: Application Development [@Cape Peninsula University of Technology](https://www.cput.ac.za)**
 
 - 👯 I’m looking to collaborate on **GitHub**.
 
